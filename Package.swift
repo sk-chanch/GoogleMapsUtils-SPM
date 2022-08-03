@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
                    name: "GoogleMapsUtils",
-                   url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/6.0.0/GoogleMapsCore.xcframework.zip",
+                   url: "https://github.com/sk-chanch/GoogleMapsUtils-SPM/files/9250190/GoogleMapsUtils.xcframework.zip",
                    checksum: "b5af43c21870ea412ec93dad51e91bd473bbb7ac9501c55d7f516c188cef3240"
                )
       
